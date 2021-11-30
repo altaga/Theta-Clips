@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-name="Layer 1"
+   viewBox="0 0 170.112 274.032"
+   width="982.1709"
+   height="1582.1709"
+   version="1.1"
+   id="svg124"
+   sodipodi:docname="theta-token.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>theta</dc:title>
+        <dc:title>theta</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview126"
+     showgrid="false"
+     scale-x="1e-05"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.53400704"
+     inkscape:cx="604.17965"
+     inkscape:cy="689.02536"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg124" />
+  <defs
+     id="defs114">
+    <linearGradient
+       id="a"
+       x1="112.27"
+       y1="112.27"
+       x2="320.73001"
+       y2="320.73001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#2ab8e6"
+         id="stop106" />
+      <stop
+         offset=".53"
+         stop-color="#29cad2"
+         id="stop108" />
+      <stop
+         offset="1"
+         stop-color="#2ee4be"
+         id="stop110" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="175.55"
+       y1="175.91"
+       x2="258.17999"
+       y2="258.54001"
+       xlink:href="#a"
+       gradientTransform="translate(-131.449,-79.489)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient132"
+       gradientUnits="userSpaceOnUse"
+       x1="112.27"
+       y1="112.27"
+       x2="320.73001"
+       y2="320.73001"
+       gradientTransform="translate(-131.449,-79.489)" />
+  </defs>
+  <title
+     id="title116">theta</title>
+  <path
+     d="m 13.611,13.611 h 142.89 v 246.81 H 13.611 Z"
+     id="path120"
+     inkscape:connector-curvature="0"
+     style="fill:#1b1f2b;stroke:url(#linearGradient132);stroke-width:27.22200012;stroke-linejoin:bevel" />
+  <path
+     d="m 128.351,175.981 h -29.59 v 31 h -26.7 v -31 h -29.59 v -26.7 h 85.88 z m 0,-76.5 h -29.59 v -31 h -26.7 v 31 h -29.59 v 26.7 h 85.88 z"
+     id="path122"
+     inkscape:connector-curvature="0"
+     style="fill:url(#b)" />
+</svg>
