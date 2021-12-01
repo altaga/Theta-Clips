@@ -93,6 +93,12 @@ System's Achitecture:
 
 This is a comprehensive take on how the system's built, you can take a look into our Github where you'll find the codebase.
 
+## Minting Process:
+
+As an important part of the platform, this is the algorithm to upload an NFT to our platform, prowered by NFT.storage
+
+<img src="https://raw.githubusercontent.com/altaga/NFT-on-Demand/main/Images/diagram2.png">
+
 # What's next for Theta Clips
 
 There are Marketplaces for great sports moments created by the NBA and one coming for the NFL, but of course this is heavily centralized and controlled. We can do a similar concept through streaming platforms, gaming and creators with THETA CLIPS but of course in a much more decentralized way where the NFT belongs not to a company, but to the people that mint and buy it.
@@ -107,4 +113,5 @@ Hopefully you liked the project!
 [<img src="https://img.shields.io/badge/Victor%20Alonso-Altamirano%20Izquierdo-lightgrey">](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-guti%C3%A9rrez-11105a157/)
 
 [<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
+
 
