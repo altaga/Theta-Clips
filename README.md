@@ -100,3 +100,11 @@ There are Marketplaces for great sports moments created by the NBA and one comin
 Regarding streaming platforms as acknowledged by our research, interactivity from the audience with the streamer is paramount for its adoption and I think Theta can excel among platforms by incorporating ideas and projects such as this one.
 
 Hopefully you liked the project!
+
+# Team
+[<img src="https://img.shields.io/badge/Luis%20Eduardo-Arevalo%20Oliver-blue">](https://www.linkedin.com/in/luis-eduardo-arevalo-oliver-989703122/)
+
+[<img src="https://img.shields.io/badge/Victor%20Alonso-Altamirano%20Izquierdo-lightgrey">](https://www.linkedin.com/in/alejandro-s%C3%A1nchez-guti%C3%A9rrez-11105a157/)
+
+[<img src="https://img.shields.io/badge/Alejandro-Sanchez%20Gutierrez-red">](https://www.linkedin.com/in/victor-alonso-altamirano-izquierdo-311437137/)
+
