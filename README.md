@@ -10,6 +10,18 @@ Welcome, we are Theta Clips.
 
 Theta Clips is an NFT marketplace where streamers, creators, gamers and their audience can easily and quickly upload short videos of their best moments and turn them into NFTs.
 
+#### Click here to watch our demo video:
+
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](aqui va el video)
+
+## To test the product follow this link (Over here Tech judges!):
+<a href="https://www.nft-arcade.online/" target="_blank" style="font-size:30px;">
+https://main.d3h8pyav6x8msw.amplifyapp.com/
+ 
+### Use Theta Smart contracts test net on METAMASK!!!! (will need to have some TFUEL for minting)
+</a>
+<hr>
+
 # Introduction
 
 NFTs have exploded into the world scene with huge valuations but most of it have been focusing on digital art-work.
