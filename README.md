@@ -13,7 +13,7 @@ Theta Clips is an NFT marketplace where streamers, creators, gamers and their au
 ### Socials
 Twitter: https://twitter.com/Thetaclips?t=9RJ_rf0kttiE_qXQCGotgQ&s=08
 
-Facebook:
+Facebook: https://www.facebook.com/Theta-Clips-103960115470898
 
 #### Click here to watch our demo video:
 
