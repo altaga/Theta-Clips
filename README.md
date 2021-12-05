@@ -11,7 +11,8 @@ Welcome, we are Theta Clips.
 Theta Clips is an NFT marketplace where streamers, creators, gamers and their audience can easily and quickly upload short videos of their best moments and turn them into NFTs.
 
 ### Socials
-Twitter: 
+Twitter: https://twitter.com/Thetaclips?t=9RJ_rf0kttiE_qXQCGotgQ&s=08
+
 Facebook:
 
 #### Click here to watch our demo video:
