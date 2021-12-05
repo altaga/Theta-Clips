@@ -16,7 +16,7 @@ Theta Clips is an NFT marketplace where streamers, creators, gamers and their au
 
 ## To test the product follow this link (Over here Tech judges!):
 <a href="https://www.nft-arcade.online/" target="_blank" style="font-size:30px;">
-https://main.d3h8pyav6x8msw.amplifyapp.com/
+        https://main.d3h8pyav6x8msw.amplifyapp.com/
  
 ### Use Theta Smart contracts test net on METAMASK!!!! (will need to have some TFUEL for minting)
 </a>
